@@ -23,6 +23,8 @@ Then you can do it.......but don't copy it **##
 
 _______#### This game is not exactly the same like original Flappy Bird####_______
 
-
+_______#### This version is mady by Avijit Acharya as a personal project for 
+_______#### This is made by free sourcing elements like the background, sound 
+_______#### You can use any abstract background for your own taste.
 *****If this code is not working in your ide then try to make folders then run the code
      And watch for the syntax errors, i also get so many Syntex errors while making this*****
